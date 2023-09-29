@@ -126,10 +126,10 @@ input:checked + input ~ input:before {
 		content: '⥪';
 		position: absolute;
 		top: 85%;
-		left: 10rem;
+		left: 10%;
 		z-index: 2;
-		width: 16rem;
-		height: 16rem;
+		width: 25%;
+		height: 20%;
 		background: rgb(111, 188, 255);
 		color: white;
 		border-radius: 50px 50px 50px 50px;
@@ -140,14 +140,14 @@ input:checked + input ~ input:before {
 	i:after {
 		content: '⥭';
 		left: auto;
-		right: 10rem;
+		right: 10%;;
 		font-size: 70px;
 	}
 
 	input:after {
 		content: attr(title);
 		position: absolute;
-		top: 20px;
+		/* top: 10%; */
 		left: 3rem;
 		background-color: rgba(0,0,0,0.4);
 		color: white;
@@ -191,7 +191,7 @@ input:checked + input ~ input:before {
 
 
 
-@media only screen and (max-width: 870px) {
+/* @media only screen and (max-width: 870px) {
 	body {
 		background-color: #f0e3e3;
 	}
@@ -224,4 +224,4 @@ input:checked + input ~ input:before {
 	input::before {
 		left: 10%;
 	}
-}
+} */
