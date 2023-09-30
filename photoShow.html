@@ -2,23 +2,27 @@
 <html>
   <head>
     <link rel="stylesheet" href="css/style.css">
+
   </head>
   
   
   <body>
-  <i>
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208281095_61a081055a_o.jpg);" title="1/9 Người câu cá bãi xép">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53206892257_257296cc7f_o.jpg);" title="2/9 Bãi xép - hoa vàng trên cỏ xanh">
-    <input checked type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53206892087_2a133bfbc9_o.jpg);" title=" 3/9 Gành đã đĩa">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208280080_79d6de8c84_k.jpg);" title="4/9 Mũi vi rồng">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208153834_5a85907050_o.jpg);" title="5/9 Bình minh đỉnh Xuân Vân">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209459226_8479d0203f_o.jpg);" title="6/9 Bánh xèo tôm nhảy">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209965750_9c25fcc8d6_o.jpg);" title="7/9 Bánh hỏi lòng heo">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208579407_2fafde7589_o.jpg);" title="8/9 Hải sản đâm ô loan">
-    <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209837394_8df5aa1bc7_o.jpg);" title="9/9 Gành đá đĩa">
-  </i>
+    <!-- <button id="zoomOut">-</button>
+    <button id="zoomIn">+</button> -->
+    <i>
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208281095_61a081055a_o.jpg);" title="1/9 Người câu cá bãi xép">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53206892257_257296cc7f_o.jpg);" title="2/9 Bãi xép - hoa vàng trên cỏ xanh">
+      <input  checked type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53206892087_2a133bfbc9_o.jpg);" title=" 3/9 Gành đã đĩa">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208280080_79d6de8c84_k.jpg);" title="4/9 Mũi vi rồng">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208153834_5a85907050_o.jpg);" title="5/9 Bình minh đỉnh Xuân Vân">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209459226_8479d0203f_o.jpg);" title="6/9 Bánh xèo tôm nhảy">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209965750_9c25fcc8d6_o.jpg);" title="7/9 Bánh hỏi lòng heo">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53208579407_2fafde7589_o.jpg);" title="8/9 Hải sản đâm ô loan">
+      <input type="radio" name="s" id="myInput" style="background-image: url(https://live.staticflickr.com/65535/53209837394_8df5aa1bc7_o.jpg);" title="9/9 Gành đá đĩa">
 
-</body>
+    </i>
+
+  </body>
 
 
   <script>
@@ -72,9 +76,37 @@
           }
         }
       }
+
     });
 
   </script> 
+
+  <!-- <script>
+    var zoom = 1;
+    var zoomStep = 0.5;
+    const zoomOut = document.querySelector("#zoomOut");
+    zoomOut.addEventListener("click", function() {
+      if (zoom > zoomStep) {
+            zoom -= zoomStep;
+            console.log("zoom out: ", zoom)
+            var inputs = document.getElementsByTagName('input');
+            var currentIndex = Array.from(inputs).indexOf(document.querySelector('input:checked'));
+            inputs[currentIndex].style.transform =
+              "scale(" + zoom + ")";
+          }
+    });
+
+    const zoomIn = document.querySelector("#zoomIn");
+    zoomIn.addEventListener("click", function() {
+        zoom += zoomStep;
+        console.log("zoom out: ", zoom)
+        var inputs = document.getElementsByTagName('input');
+        var currentIndex = Array.from(inputs).indexOf(document.querySelector('input:checked'));
+        inputs[currentIndex].style.transform =
+          "scale(" + zoom + ")";
+    }); -->
+
+  </script>
 
 </html>
 
