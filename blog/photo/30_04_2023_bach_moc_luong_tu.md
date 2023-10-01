@@ -7,40 +7,40 @@ Du khách sẽ mất 2 - 3 ngày để chinh phục con đường từ chân nú
 Hành trình xuất phát báng việc băng qua những cánh rừng tre, những vạt thảo quả vả rừng già kết hợp cùng những con dốc  khúc khuỷu
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911222070/in/album-72177720308408656/" title="64a6d3fee3373c696526_52877554679_o"><img src="https://live.staticflickr.com/65535/52911222070_495cc3eb7a_c.jpg" width="40%" alt="64a6d3fee3373c696526_52877554679_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52911222070_495cc3eb7a_c.jpg" width="40%" alt="64a6d3fee3373c696526_52877554679_o"/></a>
 </p>
 <p align="center">
     Những con dốc đầu tiền
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910987154/in/album-72177720308408656/" title="b7e427354ef691a8c8e7_52877777450_o"><img src="https://live.staticflickr.com/65535/52910987154_a1983c83da_c.jpg" width="30%" alt="b7e427354ef691a8c8e7_52877777450_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910987154_a1983c83da_c.jpg" width="30%" alt="b7e427354ef691a8c8e7_52877777450_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911288868/in/album-72177720308408656/" title="4a2c8673e8b037ee6ea1_52877555879_o"><img src="https://live.staticflickr.com/65535/52911288868_43246aaf67_c.jpg" width="30%" alt="4a2c8673e8b037ee6ea1_52877555879_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52911288868_43246aaf67_c.jpg" width="30%" alt="4a2c8673e8b037ee6ea1_52877555879_o"/></a>
 </p>
 
 <p align="center">
     Trái cây rừng trên đường đi
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910843481/in/album-72177720308408656/" title="0429231403e_52877404146_o"><img src="https://live.staticflickr.com/65535/52910843481_8e1d0abc93_c.jpg" width="60%" alt="0429231403e_52877404146_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910843481_8e1d0abc93_c.jpg" width="60%" alt="0429231403e_52877404146_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911230980/in/album-72177720308408656/" title="0430231508_52877567014_o"><img src="https://live.staticflickr.com/65535/52911230980_2d818cd27e_c.jpg" width="40%" alt="0430231508_52877567014_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52911230980_2d818cd27e_c.jpg" width="40%" alt="0430231508_52877567014_o"/></a>
 </p>
 <p align="center">
     Hình ảnh anh poster leo cây để xem đoán vị trí đoàn theo sau
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910269762/in/album-72177720308408656/" title="0429231523a_hdr_52876822372_o"><img src="https://live.staticflickr.com/65535/52910269762_61d555a5d6_c.jpg" width="40%" alt="0429231523a_hdr_52876822372_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910269762_61d555a5d6_c.jpg" width="40%" alt="0429231523a_hdr_52876822372_o"/></a>
 </p>
 <p align="center">
 Đến lán nghỉ 2100, chúng tôi nhâm nhi ly trà gừng ấm và ăn thịt nướng
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910996734/in/album-72177720308408656/" title="0429231725b_52877562584_o"><img src="https://live.staticflickr.com/65535/52910996734_db5a515ea0_c.jpg" width="60%" alt="0429231725b_52877562584_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910996734_db5a515ea0_c.jpg" width="60%" alt="0429231725b_52877562584_o"/></a>
 </p>
 
 <p align="center">
@@ -48,31 +48,31 @@ Hành trình xuất phát báng việc băng qua những cánh rừng tre, nhữ
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910996484/in/album-72177720308408656/" title="0430231535a_52877410151_o"><img src="https://live.staticflickr.com/65535/52910996484_d2be02fb01_c.jpg" width="40%" alt="0430231535a_52877410151_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910996484_d2be02fb01_c.jpg" width="40%" alt="0430231535a_52877410151_o"/></a>
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910843121/in/album-72177720308408656/" title="0430231552b_52877790910_o"><img src="https://live.staticflickr.com/65535/52910843121_c68ce1ca6a_c.jpg" width="40%" alt="0430231552b_52877790910_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-
-<p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910834491/in/album-72177720308408656/" title="0430231558_52888918929"><img src="https://live.staticflickr.com/31337/52910834491_622b4d383b_c.jpg" width="60%" alt="0430231558_52888918929"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911297028/in/album-72177720308408656/" title="0430231749a_52877858608_o"><img src="https://live.staticflickr.com/65535/52911297028_ae841d1093_c.jpg" width="60%" alt="0430231749a_52877858608_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911231285/in/album-72177720308408656/" title="0429231755h_52877851028_o"><img src="https://live.staticflickr.com/65535/52911231285_e1d9b70d9c_c.jpg" width="40%" alt="0429231755h_52877851028_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910843121_c68ce1ca6a_c.jpg" width="40%" alt="0430231552b_52877790910_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911296963/in/album-72177720308408656/" title="0501230546d_52877791185_o"><img src="https://live.staticflickr.com/65535/52911296963_23ff5dcc56_c.jpg" width="60%" alt="0501230546d_52877791185_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/31337/52910834491_622b4d383b_c.jpg" width="60%" alt="0430231558_52888918929"/></a>
+</p>
+<p align="center">
+    <img src="https://live.staticflickr.com/65535/52911297028_ae841d1093_c.jpg" width="60%" alt="0430231749a_52877858608_o"/></a>
+</p>
+<p align="center">
+    <img src="https://live.staticflickr.com/65535/52911231285_e1d9b70d9c_c.jpg" width="40%" alt="0429231755h_52877851028_o"/></a>
+</p>
+
+<p align="center">
+    <img src="https://live.staticflickr.com/65535/52911296963_23ff5dcc56_c.jpg" width="60%" alt="0501230546d_52877791185_o"/></a>
 </p>
 <p align="center">
 Một buổi tối với trò chơi tăng tình cảm =)))
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910269632/in/album-72177720308408656/" title="0429232046b_52877404951_o"><img src="https://live.staticflickr.com/65535/52910269632_ee7058175b_c.jpg" width="60%" alt="0429232046b_52877404951_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910269632_ee7058175b_c.jpg" width="60%" alt="0429232046b_52877404951_o"/></a>
 </p>
 
 <p align="center">
@@ -80,14 +80,14 @@ Một buổi tối với trò chơi tăng tình cảm =)))
 Những con dốc cao nguy hiểm khiến chúng tôi run sợ và phải lết bằng mông và 2 chân 2 tay
 </p>
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910834701/in/album-72177720308408656/" title="6a06c91d85de5a8003cf_52877399206_o"><img src="https://live.staticflickr.com/65535/52910834701_b69ccac9c3_c.jpg" width="60%" alt="6a06c91d85de5a8003cf_52877399206_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910834701_b69ccac9c3_c.jpg" width="60%" alt="6a06c91d85de5a8003cf_52877399206_o"/></a>
 </p>
 <p align="center">
 Những giây phút hài lòng vì sự vất vả :v
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911297333/in/album-72177720308408656/" title="0430231011_hdr_52876823307_o"><img src="https://live.staticflickr.com/65535/52911297333_33678d5174_c.jpg" width="60%" alt="0430231011_hdr_52876823307_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52911297333_33678d5174_c.jpg" width="60%" alt="0430231011_hdr_52876823307_o"/></a>
 </p>
 
 <p align="center">
@@ -95,33 +95,33 @@ Những giây phút hài lòng vì sự vất vả :v
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910834626/in/album-72177720308408656/" title="437477f27331ac6ff520_52877398876_o"><img src="https://live.staticflickr.com/65535/52910834626_63a2ce9e87_c.jpg" width="60%" alt="437477f27331ac6ff520_52877398876_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910834626_63a2ce9e87_c.jpg" width="60%" alt="437477f27331ac6ff520_52877398876_o"/></a>
 </p>
 
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910996689/in/album-72177720308408656/" title="0430231102b_hdr_52876824437_o"><img src="https://live.staticflickr.com/65535/52910996689_2a047bb1ab_c.jpg" width="60%" alt="0430231102b_hdr_52876824437_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910996689_2a047bb1ab_c.jpg" width="60%" alt="0430231102b_hdr_52876824437_o"/></a>
 </p>
 
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910269552/in/album-72177720308408656/" title="0430231122c_52876823707_o"><img src="https://live.staticflickr.com/65535/52910269552_2ce021b5c2_c.jpg" width="40%" alt="0430231122c_52876823707_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910269552_2ce021b5c2_c.jpg" width="40%" alt="0430231122c_52876823707_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52911297213/in/album-72177720308408656/" title="0430231133b_hdr_52877565844_o"><img src="https://live.staticflickr.com/65535/52911297213_ff50a0fc47_c.jpg" width="60%" alt="0430231133b_hdr_52877565844_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52911297213_ff50a0fc47_c.jpg" width="60%" alt="0430231133b_hdr_52877565844_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/52910269562/in/album-72177720308408656/" title="0430231134c_hdr_52876826352_o"><img src="https://live.staticflickr.com/65535/52910269562_290cabcc6b_c.jpg" width="40%" alt="0430231134c_hdr_52876826352_o"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/52910269562_290cabcc6b_c.jpg" width="40%" alt="0430231134c_hdr_52876826352_o"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/53087894932/in/dateposted-public/" title="0501230515c~2"><img src="https://live.staticflickr.com/65535/53087894932_29fa6114a1_o.jpg" width="60%" alt="0501230515c~2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/53087894932_29fa6114a1_o.jpg" width="60%" alt="0501230515c~2"/></a>
 </p>
 
 <p align="center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/198378715@N06/53087894887/in/dateposted-public/" title="1689842837599"><img src="https://live.staticflickr.com/65535/53087894887_a017db327a_o.jpg" height="40%" alt="1689842837599"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <img src="https://live.staticflickr.com/65535/53087894887_a017db327a_o.jpg" height="40%" alt="1689842837599"/></a>
 </p>
 
 **Cảm ơn tất cả mọi người khi đã dành cho nhau những giây phút vui vẻ**
