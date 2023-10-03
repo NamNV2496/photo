@@ -117,13 +117,13 @@ input:checked + input ~ input:before {
 	display: none;
 }
 
-.navbar {
+/* .navbar {
 	overflow: hidden;
 	background-color: #333;
-	position: fixed; /* Set the navbar to fixed position */
-	top: 10%; /* Position the navbar at the top of the page */
-	width: 100%; /* Full width */
-}
+	position: fixed;
+	top: 10%; 
+	width: 100%; 
+} */
 
 @media only screen and (max-width: 1080px) {
 	body {
@@ -199,11 +199,7 @@ input:checked + input ~ input:before {
 	}
 
 	.navbar {
-		overflow: hidden;
-		background-color: #f0e3e3;
-		position: fixed; /* Set the navbar to fixed position */
-		top: 6%; /* Position the navbar at the top of the page */
-		margin-left: 50%;
+		display: none;
 	}
 }
 
