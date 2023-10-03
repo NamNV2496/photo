@@ -199,7 +199,9 @@ input:checked + input ~ input:before {
 	}
 
 	.navbar {
-		display: none;
+		position: fixed;
+		top: 7%; 
+		left: 30%;
 	}
 }
 
