@@ -4,8 +4,18 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="website icon" type="jpg" href="./img/icon.jpg">
     <link rel="shortcut icon" href="./img/icon.jpg">
+    
 
+
+    <!-- <iframe scrolling="no" width=100 height=180 src=https://zingmp3.vn/embed/song/Z6EF8UWD?start=false frameborder="0" allowfullscreen="true"/> -->
+    <!-- <audio controls autoplay> -->
+    <div class="navbar">
+      <audio controls autoplay>
+        <source src="./audio/Vô tri.mp3" type="audio/mp3">
+      </audio>
+    </div>
   </head>
+
   
   
   <body>
@@ -24,7 +34,30 @@
     </i>
 
   </body>
+  
+  <script>
+      var inputs = document.getElementsByTagName('input');
+      let index = Array.from(inputs).indexOf(document.querySelector('input:checked'));
+      let intervalId = setInterval(function() {
+      
+        var currentIndex = Array.from(inputs).indexOf(document.querySelector('input:checked'));
+        console.log("currentIndex of next slide: ", index, "currentIndex: ", currentIndex)
+        if (index == currentIndex) {
+          if (currentIndex <= inputs.length - 1) {
+            var nextIndex = (currentIndex + 1) % inputs.length;
+            inputs[currentIndex].checked = false;
+            inputs[nextIndex].checked = true;
+          }
+          index += 1;
+        }
+      }, 5000);
 
+      // Stop the interval after 10 seconds
+      setTimeout(function() {
+        console.log("clear auto next slide")
+        clearInterval(intervalId);
+      }, 100000);
+  </script>
 
   <script>
     document.addEventListener('keydown', function(event) {

@@ -79,7 +79,7 @@ input:after {
 	content: attr(title);
 	position: absolute;
 	top: 1rem;
-	left: 1rem;
+	left: 2rem;
 	background-color: rgba(0,0,0,0.4);
 	color: white;
 	padding: .5rem;
@@ -117,10 +117,18 @@ input:checked + input ~ input:before {
 	display: none;
 }
 
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+	position: fixed; /* Set the navbar to fixed position */
+	top: 10%; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+}
+
 @media only screen and (max-width: 991px) {
 	body {
 		background-color: #f0e3e3;
-		height: 95vh;
+		height: 97vh;
 	}
 
 	i:before, i:after {
@@ -187,6 +195,15 @@ input:checked + input ~ input:before {
 
 	input:checked + input ~ input:before {
 		display: none;
+	}
+
+	.navbar {
+		overflow: hidden;
+		background-color: #f0e3e3;
+		position: fixed; /* Set the navbar to fixed position */
+		top: 6%; /* Position the navbar at the top of the page */
+		width: 100%; /* Full width */
+		margin-left: 50%;
 	}
 }
 
