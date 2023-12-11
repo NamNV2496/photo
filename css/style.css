@@ -153,14 +153,14 @@ input:checked + input ~ input:before {
 		color: white;
 		border-radius: 47px 47px 47px 47px;
 		display: flex;
-		font-size: 30px;
+		font-size: 50px;
 	}
 	
 	i:after {
 		content: '⥭';
 		left: auto;
 		right: 12rem;
-		font-size: 30px;
+		font-size: 50px;
 	}
 
 	input:after {
