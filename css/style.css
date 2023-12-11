@@ -131,7 +131,7 @@ input:checked + input ~ input:before {
 	position: fixed;
 	left: 20px;
 	top: 0px; 
-	width: 50px; 
+	width: 70px; 
 }
 
 @media only screen and (max-width: 1080px) {
@@ -208,16 +208,20 @@ input:checked + input ~ input:before {
 	}
 
 	.navbar {
-		display: none;
-		/* position: fixed; */
-		/* top: 7%;  */
-		/* left: 30%; */
+		z-index: 2;
+		position: fixed;
+		top: 100px; 
+		left: 20px;
+		width: 100%;
+		background-color: #f0e3e3;
 	}
+	
 	.navbarHome {
+		z-index: 2;
 		position: fixed;
 		right: 20px;
-		top: 70px; 
-		width: 100px;
+		top: 50px; 
+		width: 100%;
 	}
 }
 
