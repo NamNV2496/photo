@@ -125,6 +125,15 @@ input:checked + input ~ input:before {
 	width: 100%; 
 }
 
+.navbarHome {
+	overflow: hidden;
+	background-color: #ffffff;
+	position: fixed;
+	left: 20px;
+	top: 0px; 
+	width: 50px; 
+}
+
 @media only screen and (max-width: 1080px) {
 	body {
 		background-color: #f0e3e3;
@@ -138,20 +147,20 @@ input:checked + input ~ input:before {
 		top: 84%;
 		left: 10rem;
 		z-index: 2;
-		width: 16rem;
-		height: 16rem;
+		width: 12rem;
+		height: 12rem;
 		background: rgb(111, 188, 255);
 		color: white;
 		border-radius: 47px 47px 47px 47px;
 		display: flex;
-		font-size: 70px;
+		font-size: 30px;
 	}
 	
 	i:after {
 		content: '⥭';
 		left: auto;
-		right: 10rem;
-		font-size: 70px;
+		right: 12rem;
+		font-size: 30px;
 	}
 
 	input:after {
@@ -170,8 +179,8 @@ input:checked + input ~ input:before {
 	input:not(checked):before {
 		content: '';
 		position: absolute;
-		width: 16rem;
-		height: 16rem;
+		width: 12rem;
+		height: 12rem;
 		border-radius: 50%;
 		top: 85%;
 		right: 10rem;
@@ -203,6 +212,12 @@ input:checked + input ~ input:before {
 		/* position: fixed; */
 		/* top: 7%;  */
 		/* left: 30%; */
+	}
+	.navbarHome {
+		position: fixed;
+		right: 20px;
+		top: 70px; 
+		width: 100px;
 	}
 }
 
